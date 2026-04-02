@@ -1,0 +1,6 @@
+{
+  "name": "tax-agent",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AI tax filing assistant for Claude Code"
+}

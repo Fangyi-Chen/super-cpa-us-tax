@@ -1,0 +1,10 @@
+{
+  "name": "tax-agent",
+  "description": "AI tax filing assistant — interview, import documents, calculate, and fill IRS forms. Supports RSU, rental income, crypto, and tax-loss harvesting.",
+  "version": "0.1.0",
+  "author": "fangyic",
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": ["tax", "1040", "irs", "filing", "w2", "1099"]
+}
